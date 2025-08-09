@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://subrat-ojha.github.io/sitemap.xml 
