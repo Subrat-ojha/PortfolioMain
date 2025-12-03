@@ -7,7 +7,7 @@ Welcome to the source code for my personal portfolio website! This project showc
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v4-purple?style=flat-square)](https://tailwindcss.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white&style=flat-square)](https://vercel.com/)
 
-**[Live Demo](https://taqui-imam.vercel.app/)**
+**[Live Demo](https://Subrat.tech/)**
 
 ## Features 🚀
 
@@ -33,9 +33,9 @@ Welcome to the source code for my personal portfolio website! This project showc
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/taqui-786/Taqui.git
+git clone https://github.com/Subrat-ojha/PortfolioMain.git
 ```
-cd Taqui
+cd Subrat
 
 ```bash
 2. **Install dependencies:**
