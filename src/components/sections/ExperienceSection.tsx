@@ -6,7 +6,7 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "../ui/accordion";
-import { ArrowUpRight, CodeXml, GraduationCap, Lightbulb } from "lucide-react";
+import { ArrowUpRight, CodeXml, GraduationCap } from "lucide-react";
 
 function ExperienceSection() {
   const [openItem, setOpenItem] = useState("experience-1");

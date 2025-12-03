@@ -4,7 +4,7 @@ import {
   TooltipContent,
   TooltipTrigger,
 } from "@/components/ui/tooltip";
-import { Auth0Icon, BootstrapIcon, ClaudeIconIcon, CssIcon, DockerIcon, DrizzleIcon, FigmaIcon, FileTypeReactjsIcon, GithubActionsIcon, GithubTwoIcon, GitIcon, JavascriptIcon, MaterialuiIcon, MongodbIcon, MysqlDarkIcon, NestjsIcon, NextjsIcon, NodejsIconIcon, OpenaiIcon, PhpIcon, PostgresqlIcon, PrismaIcon, ReactnavigationIcon, ReactQueryIconIcon, ReactRouterIcon, RedisIcon, ReduxIcon, ShadcnuiIcon, TailwindcssIcon, TypescriptIcon } from "../Icons";
+import { Auth0Icon, BootstrapIcon, ClaudeIconIcon, CssIcon, DockerIcon, DrizzleIcon, FigmaIcon, FileTypeReactjsIcon, GithubActionsIcon, GithubTwoIcon, GitIcon, JavascriptIcon, MaterialuiIcon, MongodbIcon, MysqlDarkIcon, NestjsIcon, OpenaiIcon, PhpIcon, PostgresqlIcon, PrismaIcon, ReactnavigationIcon, ReactQueryIconIcon, ReactRouterIcon, RedisIcon, ReduxIcon, ShadcnuiIcon, TailwindcssIcon } from "../Icons";
 function TechStackSection() {
   const techStack = [
     { name: "Java", icon: JavascriptIcon }, // Using JS icon for Java
